@@ -10,7 +10,7 @@
 ## 📊 Github Stats
 <div align="center">
   <a href="https://github.com/dancastrosouza">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dancastrosouza&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancastrosouza&theme=dracula&hide_border=false&&layout=compact"/>
     <h5 align="left">⚠Note: Top languages used are just a metric of the languages my public code consists of and do not reflect experience or skill level.
   </a>
