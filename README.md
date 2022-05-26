@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Danilo de Alencsatro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dancastrosouza&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Science Computer Student focused on learning and develop software
+- 🔥 Computer Science Student focused on learning and develop software
 - 🌎 I'm from Recife, PE - Brasil
 - 💻 Software Developer
 - 👨🏽‍💻 Computer Science | **Uninassau** 
